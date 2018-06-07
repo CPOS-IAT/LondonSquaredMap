@@ -1,0 +1,694 @@
+borough,abbreviation,month,measure,value
+Barking & Dagenham,Bar,Jan,sales,150
+Barking & Dagenham,Bar,Feb,sales,111
+Barking & Dagenham,Bar,Mar,sales,117
+Barking & Dagenham,Bar,Apr,sales,113
+Barking & Dagenham,Bar,May,sales,113
+Barking & Dagenham,Bar,Jun,sales,132
+Barking & Dagenham,Bar,Jul,sales,131
+Barking & Dagenham,Bar,Aug,sales,121
+Barking & Dagenham,Bar,Sep,sales,146
+Barking & Dagenham,Bar,Oct,sales,131
+Barking & Dagenham,Bar,Nov,sales,65
+Barking & Dagenham,Bar,Dec,sales,50
+Barnet,Brn,Apr,sales,199
+Barnet,Brn,May,sales,219
+Barnet,Brn,Jun,sales,247
+Barnet,Brn,Jul,sales,207
+Barnet,Brn,Aug,sales,180
+Barnet,Brn,Sep,sales,233
+Barnet,Brn,Oct,sales,205
+Barnet,Brn,Nov,sales,95
+Barnet,Brn,Dec,sales,100
+Bexley,Bxl,Jan,sales,90
+Bexley,Bxl,Feb,sales,87
+Bexley,Bxl,Mar,sales,86
+Bexley,Bxl,Jul,sales,115
+Bexley,Bxl,Aug,sales,84
+Bexley,Bxl,Sep,sales,116
+Bexley,Bxl,Oct,sales,104
+Bexley,Bxl,Nov,sales,68
+Bexley,Bxl,Dec,sales,59
+Brent,Brt,Jan,sales,220
+Brent,Brt,Feb,sales,196
+Brent,Brt,Mar,sales,215
+Brent,Brt,Apr,sales,202
+Brent,Brt,May,sales,248
+Brent,Brt,Jun,sales,230
+Brent,Brt,Oct,sales,235
+Brent,Brt,Nov,sales,132
+Brent,Brt,Dec,sales,113
+Bromley,Brm,Jan,sales,137
+Bromley,Brm,Feb,sales,149
+Bromley,Brm,Mar,sales,142
+Bromley,Brm,Apr,sales,129
+Bromley,Brm,May,sales,168
+Bromley,Brm,Jun,sales,144
+Bromley,Brm,Jul,sales,170
+Bromley,Brm,Aug,sales,143
+Bromley,Brm,Sep,sales,145
+Camden,Cmd,Jan,sales,259
+Camden,Cmd,Feb,sales,270
+Camden,Cmd,Mar,sales,246
+Camden,Cmd,Apr,sales,279
+Camden,Cmd,May,sales,296
+Camden,Cmd,Jun,sales,294
+Camden,Cmd,Jul,sales,271
+Camden,Cmd,Aug,sales,287
+Camden,Cmd,Sep,sales,342
+Camden,Cmd,Oct,sales,336
+Camden,Cmd,Nov,sales,220
+Camden,Cmd,Dec,sales,212
+City,Cty,Apr,sales,413
+City,Cty,May,sales,498
+City,Cty,Jun,sales,446
+City,Cty,Jul,sales,533
+City,Cty,Aug,sales,487
+City,Cty,Sep,sales,470
+City,Cty,Oct,sales,454
+City,Cty,Nov,sales,339
+City,Cty,Dec,sales,278
+Croydon,Crd,Jan,sales,216
+Croydon,Crd,Feb,sales,197
+Croydon,Crd,Mar,sales,183
+Croydon,Crd,Jul,sales,230
+Croydon,Crd,Aug,sales,214
+Croydon,Crd,Sep,sales,229
+Croydon,Crd,Oct,sales,234
+Croydon,Crd,Nov,sales,128
+Croydon,Crd,Dec,sales,143
+Ealing,Elg,Jan,sales,212
+Ealing,Elg,Feb,sales,211
+Ealing,Elg,Mar,sales,242
+Ealing,Elg,Apr,sales,271
+Ealing,Elg,May,sales,272
+Ealing,Elg,Jun,sales,261
+Ealing,Elg,Oct,sales,222
+Ealing,Elg,Nov,sales,145
+Ealing,Elg,Dec,sales,116
+Enfield,Enf,Jan,sales,161
+Enfield,Enf,Feb,sales,168
+Enfield,Enf,Mar,sales,173
+Enfield,Enf,Apr,sales,152
+Enfield,Enf,May,sales,207
+Enfield,Enf,Jun,sales,145
+Enfield,Enf,Jul,sales,187
+Enfield,Enf,Aug,sales,153
+Enfield,Enf,Sep,sales,198
+Greenwich,Grn,Jan,sales,128
+Greenwich,Grn,Feb,sales,171
+Greenwich,Grn,Mar,sales,177
+Greenwich,Grn,Apr,sales,157
+Greenwich,Grn,May,sales,185
+Greenwich,Grn,Jun,sales,178
+Greenwich,Grn,Jul,sales,230
+Greenwich,Grn,Aug,sales,192
+Greenwich,Grn,Sep,sales,199
+Greenwich,Grn,Oct,sales,221
+Greenwich,Grn,Nov,sales,158
+Greenwich,Grn,Dec,sales,140
+Hackney,Hck,Apr,sales,377
+Hackney,Hck,May,sales,381
+Hackney,Hck,Jun,sales,470
+Hackney,Hck,Jul,sales,433
+Hackney,Hck,Aug,sales,417
+Hackney,Hck,Sep,sales,404
+Hackney,Hck,Oct,sales,408
+Hackney,Hck,Nov,sales,288
+Hackney,Hck,Dec,sales,247
+Hammersmith & Fulham,Hms,Jan,sales,216
+Hammersmith & Fulham,Hms,Feb,sales,204
+Hammersmith & Fulham,Hms,Mar,sales,206
+Hammersmith & Fulham,Hms,Jul,sales,313
+Hammersmith & Fulham,Hms,Aug,sales,285
+Hammersmith & Fulham,Hms,Sep,sales,278
+Hammersmith & Fulham,Hms,Oct,sales,269
+Hammersmith & Fulham,Hms,Nov,sales,181
+Hammersmith & Fulham,Hms,Dec,sales,161
+Haringey,Hgy,Jan,sales,193
+Haringey,Hgy,Feb,sales,206
+Haringey,Hgy,Mar,sales,244
+Haringey,Hgy,Apr,sales,247
+Haringey,Hgy,May,sales,266
+Haringey,Hgy,Jun,sales,241
+Haringey,Hgy,Oct,sales,265
+Haringey,Hgy,Nov,sales,158
+Haringey,Hgy,Dec,sales,163
+Harrow,Hrw,Jan,sales,100
+Harrow,Hrw,Feb,sales,94
+Harrow,Hrw,Mar,sales,80
+Harrow,Hrw,Apr,sales,85
+Harrow,Hrw,May,sales,119
+Harrow,Hrw,Jun,sales,103
+Harrow,Hrw,Jul,sales,118
+Harrow,Hrw,Aug,sales,88
+Harrow,Hrw,Sep,sales,101
+Havering,Hvg,Jan,sales,148
+Havering,Hvg,Feb,sales,144
+Havering,Hvg,Mar,sales,110
+Havering,Hvg,Apr,sales,115
+Havering,Hvg,May,sales,136
+Havering,Hvg,Jun,sales,128
+Havering,Hvg,Jul,sales,112
+Havering,Hvg,Aug,sales,122
+Havering,Hvg,Sep,sales,120
+Havering,Hvg,Oct,sales,140
+Havering,Hvg,Nov,sales,75
+Havering,Hvg,Dec,sales,80
+Hendon,Hdn,Apr,sales,24
+Hendon,Hdn,May,sales,11
+Hendon,Hdn,Jun,sales,34
+Hendon,Hdn,Jul,sales,38
+Hendon,Hdn,Aug,sales,23
+Hendon,Hdn,Sep,sales,25
+Hendon,Hdn,Oct,sales,20
+Hendon,Hdn,Nov,sales,16
+Hendon,Hdn,Dec,sales,12
+Hounslow,Hns,Jan,sales,137
+Hounslow,Hns,Feb,sales,137
+Hounslow,Hns,Mar,sales,136
+Hounslow,Hns,Jul,sales,160
+Hounslow,Hns,Aug,sales,152
+Hounslow,Hns,Sep,sales,195
+Hounslow,Hns,Oct,sales,208
+Hounslow,Hns,Nov,sales,121
+Hounslow,Hns,Dec,sales,107
+Islington,Isl,Jan,sales,185
+Islington,Isl,Feb,sales,192
+Islington,Isl,Mar,sales,162
+Islington,Isl,Apr,sales,187
+Islington,Isl,May,sales,220
+Islington,Isl,Jun,sales,191
+Islington,Isl,Oct,sales,239
+Islington,Isl,Nov,sales,104
+Islington,Isl,Dec,sales,104
+Kensington & Chelsea,Kns,Jan,sales,289
+Kensington & Chelsea,Kns,Feb,sales,278
+Kensington & Chelsea,Kns,Mar,sales,291
+Kensington & Chelsea,Kns,Apr,sales,229
+Kensington & Chelsea,Kns,May,sales,262
+Kensington & Chelsea,Kns,Jun,sales,287
+Kensington & Chelsea,Kns,Jul,sales,327
+Kensington & Chelsea,Kns,Aug,sales,268
+Kensington & Chelsea,Kns,Sep,sales,305
+Kingston upon Thames,Kng,Jan,sales,108
+Kingston upon Thames,Kng,Feb,sales,143
+Kingston upon Thames,Kng,Mar,sales,148
+Kingston upon Thames,Kng,Apr,sales,167
+Kingston upon Thames,Kng,May,sales,186
+Kingston upon Thames,Kng,Jun,sales,209
+Kingston upon Thames,Kng,Jul,sales,191
+Kingston upon Thames,Kng,Aug,sales,183
+Kingston upon Thames,Kng,Sep,sales,184
+Kingston upon Thames,Kng,Oct,sales,174
+Kingston upon Thames,Kng,Nov,sales,125
+Kingston upon Thames,Kng,Dec,sales,112
+Lambeth,Lam,Apr,sales,87
+Lambeth,Lam,May,sales,94
+Lambeth,Lam,Jun,sales,93
+Lambeth,Lam,Jul,sales,88
+Lambeth,Lam,Aug,sales,105
+Lambeth,Lam,Sep,sales,115
+Lambeth,Lam,Oct,sales,119
+Lambeth,Lam,Nov,sales,46
+Lambeth,Lam,Dec,sales,59
+Lewisham,Lsh,Jan,sales,326
+Lewisham,Lsh,Feb,sales,310
+Lewisham,Lsh,Mar,sales,354
+Lewisham,Lsh,Jul,sales,438
+Lewisham,Lsh,Aug,sales,402
+Lewisham,Lsh,Sep,sales,424
+Lewisham,Lsh,Oct,sales,453
+Lewisham,Lsh,Nov,sales,287
+Lewisham,Lsh,Dec,sales,277
+Merton,Mrt,Jan,sales,179
+Merton,Mrt,Feb,sales,207
+Merton,Mrt,Mar,sales,207
+Merton,Mrt,Apr,sales,223
+Merton,Mrt,May,sales,223
+Merton,Mrt,Jun,sales,234
+Merton,Mrt,Oct,sales,246
+Merton,Mrt,Nov,sales,161
+Merton,Mrt,Dec,sales,170
+Newham,Nwm,Jan,sales,141
+Newham,Nwm,Feb,sales,145
+Newham,Nwm,Mar,sales,134
+Newham,Nwm,Apr,sales,148
+Newham,Nwm,May,sales,142
+Newham,Nwm,Jun,sales,118
+Newham,Nwm,Jul,sales,162
+Newham,Nwm,Aug,sales,126
+Newham,Nwm,Sep,sales,144
+Redbridge,Rdb,Jan,sales,234
+Redbridge,Rdb,Feb,sales,224
+Redbridge,Rdb,Mar,sales,222
+Redbridge,Rdb,Apr,sales,221
+Redbridge,Rdb,May,sales,250
+Redbridge,Rdb,Jun,sales,217
+Redbridge,Rdb,Jul,sales,250
+Redbridge,Rdb,Aug,sales,254
+Redbridge,Rdb,Sep,sales,248
+Redbridge,Rdb,Oct,sales,293
+Redbridge,Rdb,Nov,sales,190
+Redbridge,Rdb,Dec,sales,194
+Richmond upon Thames,Rch,Apr,sales,135
+Richmond upon Thames,Rch,May,sales,116
+Richmond upon Thames,Rch,Jun,sales,134
+Richmond upon Thames,Rch,Jul,sales,164
+Richmond upon Thames,Rch,Aug,sales,136
+Richmond upon Thames,Rch,Sep,sales,159
+Richmond upon Thames,Rch,Oct,sales,138
+Richmond upon Thames,Rch,Nov,sales,89
+Richmond upon Thames,Rch,Dec,sales,71
+Southwark,Swr,Jan,sales,87
+Southwark,Swr,Feb,sales,113
+Southwark,Swr,Mar,sales,108
+Southwark,Swr,Jul,sales,189
+Southwark,Swr,Aug,sales,190
+Southwark,Swr,Sep,sales,194
+Southwark,Swr,Oct,sales,154
+Southwark,Swr,Nov,sales,120
+Southwark,Swr,Dec,sales,102
+Sutton,Stn,Jan,sales,291
+Sutton,Stn,Feb,sales,294
+Sutton,Stn,Mar,sales,342
+Sutton,Stn,Apr,sales,339
+Sutton,Stn,May,sales,401
+Sutton,Stn,Jun,sales,374
+Sutton,Stn,Oct,sales,411
+Sutton,Stn,Nov,sales,286
+Sutton,Stn,Dec,sales,252
+Tower Hamlets,Tow,Jan,sales,85
+Tower Hamlets,Tow,Feb,sales,88
+Tower Hamlets,Tow,Mar,sales,93
+Tower Hamlets,Tow,Apr,sales,91
+Tower Hamlets,Tow,May,sales,86
+Tower Hamlets,Tow,Jun,sales,105
+Tower Hamlets,Tow,Jul,sales,69
+Tower Hamlets,Tow,Aug,sales,61
+Tower Hamlets,Tow,Sep,sales,84
+Waltham Forest,Wth,Jan,sales,289
+Waltham Forest,Wth,Feb,sales,279
+Waltham Forest,Wth,Mar,sales,310
+Waltham Forest,Wth,Apr,sales,367
+Waltham Forest,Wth,May,sales,386
+Waltham Forest,Wth,Jun,sales,370
+Waltham Forest,Wth,Jul,sales,468
+Waltham Forest,Wth,Aug,sales,430
+Waltham Forest,Wth,Sep,sales,403
+Waltham Forest,Wth,Oct,sales,468
+Waltham Forest,Wth,Nov,sales,321
+Waltham Forest,Wth,Dec,sales,205
+Wandsworth,Wns,Apr,sales,143
+Wandsworth,Wns,May,sales,197
+Wandsworth,Wns,Jun,sales,185
+Wandsworth,Wns,Jul,sales,162
+Wandsworth,Wns,Aug,sales,165
+Wandsworth,Wns,Sep,sales,198
+Wandsworth,Wns,Oct,sales,188
+Wandsworth,Wns,Nov,sales,123
+Wandsworth,Wns,Dec,sales,95
+Westminster,Wst,Jan,sales,266
+Westminster,Wst,Feb,sales,255
+Westminster,Wst,Mar,sales,220
+Westminster,Wst,Jul,sales,290
+Westminster,Wst,Aug,sales,315
+Westminster,Wst,Sep,sales,321
+Westminster,Wst,Oct,sales,347
+Westminster,Wst,Nov,sales,216
+Westminster,Wst,Dec,sales,197
+Barking & Dagenham,Bar,Jan,pirates,96
+Barking & Dagenham,Bar,Feb,pirates,9
+Barking & Dagenham,Bar,Mar,pirates,83
+Barking & Dagenham,Bar,Apr,pirates,112
+Barking & Dagenham,Bar,May,pirates,49
+Barking & Dagenham,Bar,Jun,pirates,18
+Barking & Dagenham,Bar,Oct,pirates,97
+Barking & Dagenham,Bar,Nov,pirates,34
+Barking & Dagenham,Bar,Dec,pirates,39
+Barnet,Brn,Jan,pirates,5
+Barnet,Brn,Feb,pirates,81
+Barnet,Brn,Mar,pirates,146
+Barnet,Brn,Apr,pirates,77
+Barnet,Brn,May,pirates,57
+Barnet,Brn,Jun,pirates,52
+Barnet,Brn,Jul,pirates,184
+Barnet,Brn,Aug,pirates,2
+Barnet,Brn,Sep,pirates,132
+Bexley,Bxl,Jan,pirates,40
+Bexley,Bxl,Feb,pirates,14
+Bexley,Bxl,Mar,pirates,7
+Bexley,Bxl,Apr,pirates,78
+Bexley,Bxl,May,pirates,45
+Bexley,Bxl,Jun,pirates,47
+Bexley,Bxl,Jul,pirates,91
+Bexley,Bxl,Aug,pirates,32
+Bexley,Bxl,Sep,pirates,11
+Bexley,Bxl,Oct,pirates,58
+Bexley,Bxl,Nov,pirates,12
+Bexley,Bxl,Dec,pirates,10
+Brent,Brt,Apr,pirates,43
+Brent,Brt,May,pirates,126
+Brent,Brt,Jun,pirates,80
+Brent,Brt,Jul,pirates,188
+Brent,Brt,Aug,pirates,131
+Brent,Brt,Sep,pirates,207
+Brent,Brt,Oct,pirates,74
+Brent,Brt,Nov,pirates,8
+Brent,Brt,Dec,pirates,7
+Bromley,Brm,Jan,pirates,80
+Bromley,Brm,Feb,pirates,75
+Bromley,Brm,Mar,pirates,41
+Bromley,Brm,Jul,pirates,49
+Bromley,Brm,Aug,pirates,87
+Bromley,Brm,Sep,pirates,88
+Bromley,Brm,Oct,pirates,91
+Bromley,Brm,Nov,pirates,70
+Bromley,Brm,Dec,pirates,61
+Camden,Cmd,Jan,pirates,79
+Camden,Cmd,Feb,pirates,61
+Camden,Cmd,Mar,pirates,46
+Camden,Cmd,Apr,pirates,220
+Camden,Cmd,May,pirates,91
+Camden,Cmd,Jun,pirates,186
+Camden,Cmd,Oct,pirates,286
+Camden,Cmd,Nov,pirates,161
+Camden,Cmd,Dec,pirates,71
+City,Cty,Jan,pirates,127
+City,Cty,Feb,pirates,213
+City,Cty,Mar,pirates,178
+City,Cty,Apr,pirates,293
+City,Cty,May,pirates,295
+City,Cty,Jun,pirates,24
+City,Cty,Jul,pirates,355
+City,Cty,Aug,pirates,453
+City,Cty,Sep,pirates,332
+Croydon,Crd,Jan,pirates,161
+Croydon,Crd,Feb,pirates,188
+Croydon,Crd,Mar,pirates,19
+Croydon,Crd,Apr,pirates,151
+Croydon,Crd,May,pirates,230
+Croydon,Crd,Jun,pirates,70
+Croydon,Crd,Jul,pirates,76
+Croydon,Crd,Aug,pirates,170
+Croydon,Crd,Sep,pirates,168
+Croydon,Crd,Oct,pirates,83
+Croydon,Crd,Nov,pirates,123
+Croydon,Crd,Dec,pirates,61
+Ealing,Elg,Apr,pirates,46
+Ealing,Elg,May,pirates,96
+Ealing,Elg,Jun,pirates,10
+Ealing,Elg,Jul,pirates,106
+Ealing,Elg,Aug,pirates,8
+Ealing,Elg,Sep,pirates,147
+Ealing,Elg,Oct,pirates,221
+Ealing,Elg,Nov,pirates,67
+Ealing,Elg,Dec,pirates,28
+Enfield,Enf,Jan,pirates,82
+Enfield,Enf,Feb,pirates,139
+Enfield,Enf,Mar,pirates,85
+Enfield,Enf,Apr,pirates,31
+Enfield,Enf,May,pirates,184
+Enfield,Enf,Jun,pirates,49
+Enfield,Enf,Jul,pirates,12
+Enfield,Enf,Aug,pirates,54
+Enfield,Enf,Sep,pirates,72
+Enfield,Enf,Oct,pirates,59
+Enfield,Enf,Nov,pirates,81
+Enfield,Enf,Dec,pirates,27
+Greenwich,Grn,Jan,pirates,36
+Greenwich,Grn,Feb,pirates,22
+Greenwich,Grn,Mar,pirates,59
+Greenwich,Grn,Apr,pirates,0
+Greenwich,Grn,May,pirates,177
+Greenwich,Grn,Jun,pirates,18
+Greenwich,Grn,Jul,pirates,105
+Greenwich,Grn,Aug,pirates,96
+Greenwich,Grn,Sep,pirates,146
+Greenwich,Grn,Oct,pirates,77
+Greenwich,Grn,Nov,pirates,115
+Greenwich,Grn,Dec,pirates,1
+Hackney,Hck,Jan,pirates,40
+Hackney,Hck,Feb,pirates,39
+Hackney,Hck,Mar,pirates,42
+Hackney,Hck,Apr,pirates,222
+Hackney,Hck,May,pirates,47
+Hackney,Hck,Jun,pirates,358
+Hackney,Hck,Jul,pirates,144
+Hackney,Hck,Aug,pirates,378
+Hackney,Hck,Sep,pirates,235
+Hackney,Hck,Oct,pirates,394
+Hackney,Hck,Nov,pirates,176
+Hackney,Hck,Dec,pirates,47
+Hammersmith & Fulham,Hms,Jan,pirates,122
+Hammersmith & Fulham,Hms,Feb,pirates,203
+Hammersmith & Fulham,Hms,Mar,pirates,179
+Hammersmith & Fulham,Hms,Apr,pirates,105
+Hammersmith & Fulham,Hms,May,pirates,224
+Hammersmith & Fulham,Hms,Jun,pirates,147
+Hammersmith & Fulham,Hms,Jul,pirates,143
+Hammersmith & Fulham,Hms,Aug,pirates,264
+Hammersmith & Fulham,Hms,Sep,pirates,138
+Hammersmith & Fulham,Hms,Oct,pirates,41
+Hammersmith & Fulham,Hms,Nov,pirates,139
+Hammersmith & Fulham,Hms,Dec,pirates,102
+Haringey,Hgy,Jan,pirates,192
+Haringey,Hgy,Feb,pirates,152
+Haringey,Hgy,Mar,pirates,116
+Haringey,Hgy,Apr,pirates,112
+Haringey,Hgy,May,pirates,242
+Haringey,Hgy,Jun,pirates,166
+Haringey,Hgy,Jul,pirates,37
+Haringey,Hgy,Aug,pirates,72
+Haringey,Hgy,Sep,pirates,27
+Haringey,Hgy,Oct,pirates,64
+Haringey,Hgy,Nov,pirates,89
+Haringey,Hgy,Dec,pirates,41
+Harrow,Hrw,Jan,pirates,43
+Harrow,Hrw,Feb,pirates,2
+Harrow,Hrw,Mar,pirates,56
+Harrow,Hrw,Apr,pirates,71
+Harrow,Hrw,May,pirates,4
+Harrow,Hrw,Jun,pirates,60
+Harrow,Hrw,Jul,pirates,82
+Harrow,Hrw,Aug,pirates,65
+Harrow,Hrw,Sep,pirates,85
+Harrow,Hrw,Oct,pirates,76
+Harrow,Hrw,Nov,pirates,1
+Harrow,Hrw,Dec,pirates,42
+Havering,Hvg,Jan,pirates,125
+Havering,Hvg,Feb,pirates,53
+Havering,Hvg,Mar,pirates,80
+Havering,Hvg,Apr,pirates,23
+Havering,Hvg,May,pirates,5
+Havering,Hvg,Jun,pirates,93
+Havering,Hvg,Jul,pirates,88
+Havering,Hvg,Aug,pirates,47
+Havering,Hvg,Sep,pirates,38
+Havering,Hvg,Oct,pirates,1
+Havering,Hvg,Nov,pirates,73
+Havering,Hvg,Dec,pirates,42
+Hendon,Hdn,Jan,pirates,15
+Hendon,Hdn,Feb,pirates,15
+Hendon,Hdn,Mar,pirates,9
+Hendon,Hdn,Apr,pirates,8
+Hendon,Hdn,May,pirates,10
+Hendon,Hdn,Jun,pirates,17
+Hendon,Hdn,Jul,pirates,9
+Hendon,Hdn,Aug,pirates,8
+Hendon,Hdn,Sep,pirates,11
+Hendon,Hdn,Oct,pirates,5
+Hendon,Hdn,Nov,pirates,6
+Hendon,Hdn,Dec,pirates,12
+Hounslow,Hns,Jan,pirates,93
+Hounslow,Hns,Feb,pirates,34
+Hounslow,Hns,Mar,pirates,3
+Hounslow,Hns,Apr,pirates,32
+Hounslow,Hns,May,pirates,150
+Hounslow,Hns,Jun,pirates,50
+Hounslow,Hns,Jul,pirates,37
+Hounslow,Hns,Aug,pirates,130
+Hounslow,Hns,Sep,pirates,179
+Hounslow,Hns,Oct,pirates,2
+Hounslow,Hns,Nov,pirates,59
+Hounslow,Hns,Dec,pirates,17
+Islington,Isl,Jan,pirates,173
+Islington,Isl,Feb,pirates,24
+Islington,Isl,Mar,pirates,39
+Islington,Isl,Apr,pirates,17
+Islington,Isl,May,pirates,212
+Islington,Isl,Jun,pirates,138
+Islington,Isl,Jul,pirates,17
+Islington,Isl,Aug,pirates,99
+Islington,Isl,Sep,pirates,76
+Islington,Isl,Oct,pirates,181
+Islington,Isl,Nov,pirates,72
+Islington,Isl,Dec,pirates,46
+Kensington & Chelsea,Kns,Jan,pirates,242
+Kensington & Chelsea,Kns,Feb,pirates,114
+Kensington & Chelsea,Kns,Mar,pirates,245
+Kensington & Chelsea,Kns,Apr,pirates,176
+Kensington & Chelsea,Kns,May,pirates,147
+Kensington & Chelsea,Kns,Jun,pirates,275
+Kensington & Chelsea,Kns,Jul,pirates,75
+Kensington & Chelsea,Kns,Aug,pirates,133
+Kensington & Chelsea,Kns,Sep,pirates,107
+Kensington & Chelsea,Kns,Oct,pirates,83
+Kensington & Chelsea,Kns,Nov,pirates,136
+Kensington & Chelsea,Kns,Dec,pirates,73
+Kingston upon Thames,Kng,Jan,pirates,52
+Kingston upon Thames,Kng,Feb,pirates,129
+Kingston upon Thames,Kng,Mar,pirates,3
+Kingston upon Thames,Kng,Apr,pirates,12
+Kingston upon Thames,Kng,May,pirates,5
+Kingston upon Thames,Kng,Jun,pirates,22
+Kingston upon Thames,Kng,Jul,pirates,83
+Kingston upon Thames,Kng,Aug,pirates,83
+Kingston upon Thames,Kng,Sep,pirates,127
+Kingston upon Thames,Kng,Oct,pirates,142
+Kingston upon Thames,Kng,Nov,pirates,106
+Kingston upon Thames,Kng,Dec,pirates,95
+Lambeth,Lam,Jan,pirates,10
+Lambeth,Lam,Feb,pirates,28
+Lambeth,Lam,Mar,pirates,17
+Lambeth,Lam,Apr,pirates,9
+Lambeth,Lam,May,pirates,64
+Lambeth,Lam,Jun,pirates,77
+Lambeth,Lam,Jul,pirates,41
+Lambeth,Lam,Aug,pirates,47
+Lambeth,Lam,Sep,pirates,99
+Lambeth,Lam,Oct,pirates,106
+Lambeth,Lam,Nov,pirates,27
+Lambeth,Lam,Dec,pirates,21
+Lewisham,Lsh,Jan,pirates,115
+Lewisham,Lsh,Feb,pirates,53
+Lewisham,Lsh,Mar,pirates,165
+Lewisham,Lsh,Apr,pirates,88
+Lewisham,Lsh,May,pirates,188
+Lewisham,Lsh,Jun,pirates,142
+Lewisham,Lsh,Jul,pirates,331
+Lewisham,Lsh,Aug,pirates,162
+Lewisham,Lsh,Sep,pirates,418
+Lewisham,Lsh,Oct,pirates,384
+Lewisham,Lsh,Nov,pirates,124
+Lewisham,Lsh,Dec,pirates,24
+Merton,Mrt,Jan,pirates,136
+Merton,Mrt,Feb,pirates,51
+Merton,Mrt,Mar,pirates,108
+Merton,Mrt,Apr,pirates,108
+Merton,Mrt,May,pirates,40
+Merton,Mrt,Jun,pirates,70
+Merton,Mrt,Jul,pirates,141
+Merton,Mrt,Aug,pirates,76
+Merton,Mrt,Sep,pirates,79
+Merton,Mrt,Oct,pirates,145
+Merton,Mrt,Nov,pirates,38
+Merton,Mrt,Dec,pirates,81
+Newham,Nwm,Jan,pirates,65
+Newham,Nwm,Feb,pirates,134
+Newham,Nwm,Mar,pirates,49
+Newham,Nwm,Apr,pirates,108
+Newham,Nwm,May,pirates,60
+Newham,Nwm,Jun,pirates,17
+Newham,Nwm,Jul,pirates,0
+Newham,Nwm,Aug,pirates,47
+Newham,Nwm,Sep,pirates,137
+Newham,Nwm,Oct,pirates,20
+Newham,Nwm,Nov,pirates,12
+Newham,Nwm,Dec,pirates,65
+Redbridge,Rdb,Jan,pirates,9
+Redbridge,Rdb,Feb,pirates,200
+Redbridge,Rdb,Mar,pirates,132
+Redbridge,Rdb,Apr,pirates,186
+Redbridge,Rdb,May,pirates,100
+Redbridge,Rdb,Jun,pirates,51
+Redbridge,Rdb,Jul,pirates,25
+Redbridge,Rdb,Aug,pirates,124
+Redbridge,Rdb,Sep,pirates,231
+Redbridge,Rdb,Oct,pirates,191
+Redbridge,Rdb,Nov,pirates,11
+Redbridge,Rdb,Dec,pirates,111
+Richmond upon Thames,Rch,Jan,pirates,100
+Richmond upon Thames,Rch,Feb,pirates,136
+Richmond upon Thames,Rch,Mar,pirates,3
+Richmond upon Thames,Rch,Apr,pirates,110
+Richmond upon Thames,Rch,May,pirates,40
+Richmond upon Thames,Rch,Jun,pirates,65
+Richmond upon Thames,Rch,Jul,pirates,31
+Richmond upon Thames,Rch,Aug,pirates,127
+Richmond upon Thames,Rch,Sep,pirates,46
+Richmond upon Thames,Rch,Oct,pirates,114
+Richmond upon Thames,Rch,Nov,pirates,66
+Richmond upon Thames,Rch,Dec,pirates,21
+Southwark,Swr,Jan,pirates,85
+Southwark,Swr,Feb,pirates,47
+Southwark,Swr,Mar,pirates,80
+Southwark,Swr,Apr,pirates,83
+Southwark,Swr,May,pirates,63
+Southwark,Swr,Jun,pirates,131
+Southwark,Swr,Jul,pirates,75
+Southwark,Swr,Aug,pirates,65
+Southwark,Swr,Sep,pirates,24
+Southwark,Swr,Oct,pirates,78
+Southwark,Swr,Nov,pirates,21
+Southwark,Swr,Dec,pirates,41
+Sutton,Stn,Jan,pirates,122
+Sutton,Stn,Feb,pirates,91
+Sutton,Stn,Mar,pirates,40
+Sutton,Stn,Apr,pirates,158
+Sutton,Stn,May,pirates,331
+Sutton,Stn,Jun,pirates,262
+Sutton,Stn,Jul,pirates,57
+Sutton,Stn,Aug,pirates,23
+Sutton,Stn,Sep,pirates,177
+Sutton,Stn,Oct,pirates,194
+Sutton,Stn,Nov,pirates,10
+Sutton,Stn,Dec,pirates,123
+Tower Hamlets,Tow,Jan,pirates,47
+Tower Hamlets,Tow,Feb,pirates,45
+Tower Hamlets,Tow,Mar,pirates,83
+Tower Hamlets,Tow,Apr,pirates,32
+Tower Hamlets,Tow,May,pirates,12
+Tower Hamlets,Tow,Jun,pirates,14
+Tower Hamlets,Tow,Jul,pirates,8
+Tower Hamlets,Tow,Aug,pirates,17
+Tower Hamlets,Tow,Sep,pirates,32
+Tower Hamlets,Tow,Oct,pirates,85
+Tower Hamlets,Tow,Nov,pirates,0
+Tower Hamlets,Tow,Dec,pirates,37
+Waltham Forest,Wth,Jan,pirates,46
+Waltham Forest,Wth,Feb,pirates,203
+Waltham Forest,Wth,Mar,pirates,9
+Waltham Forest,Wth,Apr,pirates,39
+Waltham Forest,Wth,May,pirates,121
+Waltham Forest,Wth,Jun,pirates,197
+Waltham Forest,Wth,Jul,pirates,112
+Waltham Forest,Wth,Aug,pirates,29
+Waltham Forest,Wth,Sep,pirates,183
+Waltham Forest,Wth,Oct,pirates,166
+Waltham Forest,Wth,Nov,pirates,282
+Waltham Forest,Wth,Dec,pirates,16
+Wandsworth,Wns,Jan,pirates,111
+Wandsworth,Wns,Feb,pirates,23
+Wandsworth,Wns,Mar,pirates,145
+Wandsworth,Wns,Apr,pirates,1
+Wandsworth,Wns,May,pirates,47
+Wandsworth,Wns,Jun,pirates,0
+Wandsworth,Wns,Jul,pirates,81
+Wandsworth,Wns,Aug,pirates,77
+Wandsworth,Wns,Sep,pirates,154
+Wandsworth,Wns,Oct,pirates,97
+Wandsworth,Wns,Nov,pirates,9
+Wandsworth,Wns,Dec,pirates,44
+Westminster,Wst,Jan,pirates,133
+Westminster,Wst,Feb,pirates,186
+Westminster,Wst,Mar,pirates,84
+Westminster,Wst,Apr,pirates,179
+Westminster,Wst,May,pirates,135
+Westminster,Wst,Jun,pirates,287
+Westminster,Wst,Jul,pirates,121
+Westminster,Wst,Aug,pirates,8
+Westminster,Wst,Sep,pirates,193
+Westminster,Wst,Oct,pirates,307
+Westminster,Wst,Nov,pirates,61
+Westminster,Wst,Dec,pirates,168

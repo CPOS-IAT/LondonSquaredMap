@@ -2,22 +2,20 @@
 <html lang="en">
 
 <head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>London Squared</title>	
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <!-- Material Design Bootstrap -->
-    <link href="css/mdb.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>London Squared</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.css" rel="stylesheet">
 	<!-- LS CSS -->
 	<link href="css/londonsquared.css" rel="stylesheet" type="text/css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="js/d3.v3.min.js"></script>
-
+	<script src="js/d3.v3.min.js"></script>
+  <script src="js/queue.v1.min.js"></script>
 </head>
 
 <body>
@@ -28,47 +26,42 @@
 			aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 			 <a class="navbar-brand" href="#">London Squared</a>
-			 
+
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 			<ul class="navbar-nav mr-auto mt-lg-0">
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Data Source 1</a>
+					<a class="nav-link" href="#">These</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Data Source 2</a>
+					<a class="nav-link" href="#">Links</a>
 				</li>
 							<li class="nav-item">
-					<a class="nav-link" href="#">Data Source 3</a>
+					<a class="nav-link" href="#">Go</a>
 				</li>
 							<li class="nav-item">
-					<a class="nav-link" href="#">Data Source 4</a>
+					<a class="nav-link" href="#">Nowhere</a>
 				</li>
 			</ul>
 		</div>
 	</nav>
 	<!--/. Navbar -->
-	
+
 	<hr class="extra-margins">
-	
+
 	<div class="row" align="center">
 		<div class="col-12">Description</div>
 	</div>
-  
+
 	<hr class="extra-margins">
-  
+
 	<div class="row" align="center">
-		<div class="col-md-6">Map<div id="canvasDiv"></div></div>
-		<div class="col-md-6">Chart
+		<div class="col-md-9">Map
+      <div id="canvasDiv"></div>
+    </div>
+		<div class="col-md-3">Selection
 		<div class="row">
-		
-			<div style="float: left; padding-top: 50px">
-				<form action="">
-					<input type="radio" onclick="bubbleChart()" checked="checked" name="dataToggle">Bubble Chart<br>
-					<input type="radio" onclick="choropleth()" name="dataToggle">Choropleth 1<br>
-
-				</form>
-
-			</div>
+      <div id="monthList" class="button"></div>
+      <div id="kpiList" class="button"></div>
 		</div>
 		<div class="row">
 			<div id="bilbo"></div>
@@ -77,26 +70,20 @@
 	</div>
 
 	<hr class="extra-margins">
-	
+
 	<!-- SCRIPTS -->
-      <!-- JQuery -->
-      <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-      <!-- Bootstrap tooltips -->
-      <script type="text/javascript" src="js/tether.min.js"></script>
-      <!-- Bootstrap core JavaScript -->
-      <script type="text/javascript" src="js/bootstrap.min.js"></script>
-      <!-- MDB core JavaScript -->
-      <script type="text/javascript" src="js/mdb.min.js"></script>
-	
-	<!--<script src="londonSquared2.js"></script> -->
-	 
-	 <script type="text/javascript" src="js/londonSquared2.js"></script>
-	  
-	<!--<script src="choropleth2.js"></script> -->
-	
-	<script type="text/javascript" src="js/choropleth2.js"></script>
-	
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/tether.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+
+	<script type="text/javascript" src="js/london2quar3d.js"></script>
+
 	<!--/. SCRIPTS -->
-	
+
 </body>
 </html>
